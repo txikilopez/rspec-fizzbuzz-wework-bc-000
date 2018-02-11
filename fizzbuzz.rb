@@ -11,3 +11,5 @@ def fizzbuzz(int)
 end
 
 puts(fizzbuzz(15))
+puts(fizzbuzz(21))
+puts(fizzbuzz(20))
