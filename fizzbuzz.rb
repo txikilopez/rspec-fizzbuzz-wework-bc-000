@@ -9,7 +9,3 @@ def fizzbuzz(int)
     nil
   end
 end
-
-puts(fizzbuzz(15))
-puts(fizzbuzz(21))
-puts(fizzbuzz(20))
